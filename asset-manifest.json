@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FashionFrenzy-Ecommerce/static/css/main.b8778681.css",
+    "main.js": "/FashionFrenzy-Ecommerce/static/js/main.1a9e369c.js",
+    "static/media/Home-banner.png": "/FashionFrenzy-Ecommerce/static/media/Home-banner.3e0eb2f75733a603446c.png",
+    "static/media/b1.jpg": "/FashionFrenzy-Ecommerce/static/media/b1.2f6d177f83c33b694c55.jpg",
+    "index.html": "/FashionFrenzy-Ecommerce/index.html",
+    "main.b8778681.css.map": "/FashionFrenzy-Ecommerce/static/css/main.b8778681.css.map",
+    "main.1a9e369c.js.map": "/FashionFrenzy-Ecommerce/static/js/main.1a9e369c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8778681.css",
+    "static/js/main.1a9e369c.js"
+  ]
+}
