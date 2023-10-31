@@ -6,4 +6,4 @@ Hosted version: [FashionFrenzy-Ecommerce](https://mbglegend.github.io/FashionFre
 Developed by: [Mohamad Ghalayini](https://github.com/MbgLegend)
 
 # Website preview 
-![FashionFrenzy-Ecommerce](https://github.com/MbgLegend/FashionFrenzy-Ecommerce/assets/95979029/606e3337-ef32-4f6b-b59e-00459407b026)
+![FashionFrenzy-Ecommerce](https://github.com/MbgLegend/FashionFrenzy-Ecommerce/assets/95979029/abc134b0-e8c2-42ef-8280-e2ece34a394a)
